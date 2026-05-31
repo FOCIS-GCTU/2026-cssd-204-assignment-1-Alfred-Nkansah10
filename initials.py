@@ -5,7 +5,7 @@
 #
 # Name: Awuku Alfred Kwame Nkansah
 # STUDENT ID:  2425402770
-# Email: 2425402770@klive.gctu.edu.gh
+# Email: 2425402770@live.gctu.edu.gh
 # Grader: Augustus Buckman
 #
 # On my honor, Awuku Alfred Kwame Nkansah, this programming assignment is my own work
